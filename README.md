@@ -1,7 +1,5 @@
 # 6-aulaaaa
-DOCTYPE hyml>
-
-</DOCTYPE html><!DOCTYPE hyml>
+<!DOCTYPE html></!DOCTYPE hyml>
 <head>
 <p><h1><strong> A 6° aula/ A grande revolta</p></head></strong></h1>
 <body>
